@@ -1,5 +1,5 @@
 # Space-Project
-Flask Space API and web interface
+Flask Space API and web interface. 🚀 🪐
 
 
 #### Enviroment
@@ -12,3 +12,6 @@ Flask Space API and web interface
   - CREATE SCHEMA 'space_project';
   - CREATE USER 'tom'@'localhost' IDENTIFIED BY 'Admin$00';
   - GRANT ALL PRIVILEGES ON space_project.* TO 'tom'@'localhost';
+- Migration:
+  - flask db upgrade
+
