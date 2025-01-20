@@ -1,0 +1,47 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.python-version
+
+# Flask-specific
+instance/
+instance/*
+!instance/config.py
+
+# Flask cache and logs
+*.log
+*.pot
+.cache/
+.pytest_cache/
+htmlcov/
+coverage/
+*.cover
+*.coverage
+*.coveragerc
+nosetests.xml
+coverage.xml
+*.DS_Store
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
