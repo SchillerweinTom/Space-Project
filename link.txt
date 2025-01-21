@@ -1,0 +1,7 @@
+https://ssd-api.jpl.nasa.gov/doc/horizons.html
+https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation
+https://en.wikipedia.org/wiki/Delta-v
+https://www.omnicalculator.com/physics/ideal-rocket-equation
+https://naif.jpl.nasa.gov/naif/toolkit.html
+https://api.nasa.gov/
+https://docs.spacexdata.com/#16c58b5e-44de-4183-b858-0fae51d242a5
